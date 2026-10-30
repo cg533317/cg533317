@@ -14,9 +14,9 @@ Aplicação web independente voltada ao apoio de cadastros, planejamento de card
 
 - **Tecnologias:** Python, Flask, Jinja2, Bootstrap, JavaScript e Pytest.
 - **Demonstração:** telas reais do software em ambiente local isolado, com dados fictícios.
-- **Apresentação pública:** vitrine em preparação; o código operacional completo permanece privado.
+- **Apresentação pública:** vitrine demonstrativa publicada; o código operacional completo permanece privado.
 
-**Showcase público:** apresentação visual em preparação. O link será acrescentado após a publicação oficial.
+**🌐 Showcase público:** [Conheça a vitrine do NUTRIAQUA](https://cg533317.github.io/nutriaqua-showcase/) · [Repositório público no GitHub](https://github.com/cg533317/nutriaqua-showcase).
 
 ## 🧰 Tecnologias e práticas
 
